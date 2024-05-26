@@ -163,3 +163,4 @@ cython_debug/
 #Stops the output folder to be uploaded
 output
 .idea
+*.code-workspace
