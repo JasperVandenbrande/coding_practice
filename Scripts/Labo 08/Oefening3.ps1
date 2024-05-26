@@ -1,0 +1,1 @@
+$FirewallRegels = Get-NetFirewallRule -Direction Inbound
