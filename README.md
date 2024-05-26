@@ -11,7 +11,7 @@ This repository is meant for coding projects and educational purposes.
 | [Simple calculator](/Python/simpleCalculator.py) | This is a simple visual calculator using Tkinter         |
 | [Magic-8-Ball](/Python/Magic-8-Ball.py)          | Virtual magic 8 ball; ask a question, recieve an answer. |
 
-### Powershell Scripts for EHB Course scripting I
+### Powershell Scripts for EHB course "scripting I"
 
 | Script                                | Description                 |
 | ------------------------------------- | --------------------------- |
